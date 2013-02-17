@@ -1,0 +1,26 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Ambethia\Dropbox\Dev\lucky_princess_nitro\build\Nitro.app\Contents\Resources\Java\Nitro.jar</jar>
+  <outfile>C:\Users\Ambethia\Dropbox\Dev\lucky_princess_nitro\build\nitro.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Ambethia\Dropbox\Dev\lucky_princess_nitro\assets\source\icon.ico</icon>
+  <singleInstance>
+    <mutexName>com.ambethia.luckyPrincessNitro</mutexName>
+    <windowTitle>Lucky Princess Nitro</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>

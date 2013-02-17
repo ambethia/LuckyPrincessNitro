@@ -1,0 +1,306 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+radar
+  rotate: false
+  xy: 1, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 1, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+bullet
+  rotate: false
+  xy: 67, 111
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+bullet
+  rotate: false
+  xy: 1, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+enemy_a
+  rotate: false
+  xy: 19, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+enemy_a
+  rotate: false
+  xy: 67, 93
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+enemy_a
+  rotate: false
+  xy: 85, 111
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+enemy_a
+  rotate: false
+  xy: 1, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+enemy_a
+  rotate: false
+  xy: 19, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+enemy_a
+  rotate: false
+  xy: 37, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+enemy_a
+  rotate: false
+  xy: 67, 75
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+enemy_a
+  rotate: false
+  xy: 85, 93
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+gem
+  rotate: false
+  xy: 103, 111
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+gem
+  rotate: false
+  xy: 19, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+gem
+  rotate: false
+  xy: 37, 27
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+gem
+  rotate: false
+  xy: 85, 75
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+gem
+  rotate: false
+  xy: 103, 93
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+gem
+  rotate: false
+  xy: 37, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+gem
+  rotate: false
+  xy: 103, 75
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+gem
+  rotate: false
+  xy: 55, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+player_a0
+  rotate: false
+  xy: 55, 28
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+player_a1
+  rotate: false
+  xy: 55, 11
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+player_shield
+  rotate: false
+  xy: 121, 119
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+bullet_1
+  rotate: false
+  xy: 1, 1
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 1
+bullet_1
+  rotate: false
+  xy: 121, 111
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 2
+bullet_1
+  rotate: false
+  xy: 9, 1
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 3
+bullet_1
+  rotate: false
+  xy: 121, 103
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 4
+bullet_1
+  rotate: false
+  xy: 17, 1
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 5
+bullet_1
+  rotate: false
+  xy: 121, 95
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 6
+bullet_1
+  rotate: false
+  xy: 25, 1
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 7
+bullet_1
+  rotate: false
+  xy: 121, 87
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: 8
+explosion
+  rotate: false
+  xy: 55, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+player_c0
+  rotate: false
+  xy: 73, 59
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+player_c1
+  rotate: false
+  xy: 90, 59
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+player_b0
+  rotate: false
+  xy: 73, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+player_b1
+  rotate: false
+  xy: 89, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+enemy_radar
+  rotate: false
+  xy: 121, 82
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 1
+enemy_radar
+  rotate: false
+  xy: 65, 6
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 2
+enemy_radar
+  rotate: false
+  xy: 65, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 3
+gem_radar
+  rotate: false
+  xy: 33, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 126, 84
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 0
+star
+  rotate: false
+  xy: 33, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 1
+star
+  rotate: false
+  xy: 126, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 2
